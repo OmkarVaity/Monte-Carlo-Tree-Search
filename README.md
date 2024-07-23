@@ -1,8 +1,8 @@
 # Monte-Carlo-Tree-Search
 
-# info6205-final-project
+## info6205-final-project
 
-# Steps to run the project
+## Steps to run the project
 
 
 ## Running the TicTacToe Game
